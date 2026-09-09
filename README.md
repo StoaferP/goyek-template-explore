@@ -1,12 +1,12 @@
 # goyek repository template
 
-[![GitHub Release](https://img.shields.io/github/v/release/goyek/template)](https://github.com/goyek/template/releases)
-[![Go Reference](https://pkg.go.dev/badge/github.com/goyek/template.svg)](https://pkg.go.dev/github.com/goyek/template)
-[![go.mod](https://img.shields.io/github/go-mod/go-version/goyek/template)](go.mod)
-[![LICENSE](https://img.shields.io/github/license/goyek/template)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/goyek/template/build.yml?branch=main)](https://github.com/goyek/template/actions?query=workflow%3Abuild+branch%3Amain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/goyek/template)](https://goreportcard.com/report/github.com/goyek/template)
-[![Codecov](https://codecov.io/gh/goyek/template/branch/main/graph/badge.svg)](https://codecov.io/gh/goyek/template)
+[![GitHub Release](https://img.shields.io/github/v/release/stoaferp/goyek-template-explore)](https://github.com/stoaferp/goyek-template-explore/releases)
+[![Go Reference](https://pkg.go.dev/badge/github.com/stoaferp/goyek-template-explore.svg)](https://pkg.go.dev/github.com/stoaferp/goyek-template-explore)
+[![go.mod](https://img.shields.io/github/go-mod/go-version/stoaferp/goyek-template-explore)](go.mod)
+[![LICENSE](https://img.shields.io/github/license/stoaferp/goyek-template-explore)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/stoaferp/goyek-template-explore/build.yml?branch=main)](https://github.com/stoaferp/goyek-template-explore/actions?query=workflow%3Abuild+branch%3Amain)
+[![Go Report Card](https://goreportcard.com/badge/github.com/stoaferp/goyek-template-explore)](https://goreportcard.com/report/github.com/stoaferp/goyek-template-explore)
+[![Codecov](https://codecov.io/gh/stoaferp/goyek-template-explore/branch/main/graph/badge.svg)](https://codecov.io/gh/stoaferp/goyek-template-explore)
 
 ⭐ `Star` this repository if you find it valuable and worth maintaining.
 
@@ -37,7 +37,7 @@ It also includes:
 1. Sign up on [Codecov](https://codecov.io/) and configure
    [Codecov GitHub Application](https://github.com/apps/codecov) for all repositories.
 1. Click the `Use this template` button (alt. clone, fork or download this repository).
-1. Replace all occurrences of `goyek/template` to `your_org/repo_name` in all files.
+1. Replace all occurrences of `stoaferp/goyek-template-explore` to `your_org/repo_name` in all files.
 1. Update the following files:
    - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
    - [LICENSE](LICENSE)

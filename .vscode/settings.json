@@ -8,10 +8,10 @@
     // gopls
     "go.useLanguageServer": true,
     "gopls": {
-        "formatting.local": "github.com/goyek/template",
+        "formatting.local": "github.com/stoaferp/goyek-template-explore",
         "formatting.gofumpt": true
     },
-    // golangci-lint  
+    // golangci-lint
     "go.lintTool": "golangci-lint",
     "go.lintFlags": [
         "--fast"

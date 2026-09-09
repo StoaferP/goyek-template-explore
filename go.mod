@@ -1,4 +1,4 @@
-module github.com/goyek/template
+module github.com/stoaferp/goyek-template-explore
 
 go 1.25.9
 
